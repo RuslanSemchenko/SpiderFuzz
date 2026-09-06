@@ -1,0 +1,9 @@
+# Build output
+bin/
+obj/
+*.user
+.vs/
+
+# Fuzzer output
+output/
+C:\Users\Ruslan\AppData\Local\Temp\spiderfuzz_persist/
